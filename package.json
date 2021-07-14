@@ -1,7 +1,7 @@
 {
   "name": "chrome-killer",
   "version": "1.0.0",
-  "description": "Kills all chrome processes (manually or)  when specified programs are launched",
+  "description": "Kills all chrome processes",
   "main": "index.js",
   "preferGlobal": true,
   "bin": "./index.js",
