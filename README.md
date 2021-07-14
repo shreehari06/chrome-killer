@@ -2,7 +2,7 @@
 
 Usage: chrome-killer [options]
 
-## Kills all chrome processes
+**Kills all chrome processes**
 
 ### Options:
   #### -V, --version  output the version number 
